@@ -21,16 +21,16 @@
 
 ## File organization
 ```
-|- robotframework/                           // Home folder for robot API automation project
-  |- config/env.robot                           // Common variables of the application
+|- robotframework/                                           // Home folder for robot API automation project
+  |- config/env.robot                                        // Common variables of the application
   |- libraries/assert.robot                                  // Common Assert keywords to validate the result
-  |- libraries/data.csv                                  // Data for testing
-  |- libraries/readData.robot                                  // Common keywords to read and get data from CSV
-  |- libraries/utility.robot                                  // Keywords for common function
-  |- test/merchant_service_automated_test.robot                                           // Test cases of the application
-|- results                                                        // Test results will be saving here
-|- .gitignore                                                     // Excluded the unnecessary files in the repo
-|- README.md                                                      // This file
+  |- libraries/data.csv                                      // Data for testing
+  |- libraries/readData.robot                                // Common keywords to read and get data from CSV
+  |- libraries/utility.robot                                 // Keywords for common function
+  |- test/merchant_service_automated_test.robot              // Test cases of the application
+|- results                                                   // Test results will be saving here
+|- .gitignore                                                // Excluded the unnecessary files in the repo
+|- README.md                                                 // This file
 ```
 
 ## Usage
