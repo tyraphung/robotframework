@@ -1,0 +1,18 @@
+key,value
+clientId,767663206867-i67g665la5ct6ama7hveoddmitkhfjb3.apps.googleusercontent.com
+redirectUri,https://admin-101digital-sandbox.101digital.io
+grantType,refresh_token
+refreshToken,1//0ge8v4yb9jVxKCgYIARAAGBASNwF-L9IrkpjBv__ui9JF8AtmV3K8Fjdd1jLtXISUkkoNB71ugwhkebBV2cbPXfQMKqzGf-woc9c
+errorCode,068.S00.400.00
+baseCurrency,SGD
+dueAfter,30
+invoicePrefix,INVxxxxxx
+nextInvoiceNumber,1
+mcc,80-01-01
+mccName,SHOPPING & RETAIL
+categoryName,Retail
+categoryCode,RETAIL
+riskLevel,LOW
+description,Retail category for consumer goods
+invoicePrefixUpdate, INNxxxxxx
+missingTokenError,Unauthorized

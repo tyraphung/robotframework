@@ -1,0 +1,5 @@
+results
+.venv
+.robotcode_cache
+.idea
+.DS_store
